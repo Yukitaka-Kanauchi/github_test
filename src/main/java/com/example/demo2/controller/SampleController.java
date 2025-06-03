@@ -38,5 +38,7 @@ public class SampleController {
     public String form(){
         return "form";
     }
+
+    //あああ
     
 }
